@@ -1,4 +1,5 @@
 # Dify实战训练营（基础班）（全免费值得收藏）
+![dify训练营](https://github.com/aiseall/Dify-Training-Camp/blob/main/images/Dify%E8%AE%AD%E7%BB%83%E8%90%A5%E5%9F%BA%E7%A1%80%E7%8F%AD1.0.jpeg)
 
 ## Dify全链路实战【图文】
 
@@ -40,7 +41,7 @@
 
 **【微信公众号】AI4SE**
 
-![](file:///C:/Users/oakdu/Downloads/qrcode_for_gh_572d9debae6d_258.jpg)
+![微信公众二维码]([file:///C:/Users/oakdu/Downloads/qrcode_for_gh_572d9debae6d_258.jpg](https://github.com/aiseall/Dify-Training-Camp/blob/main/images/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg))
 
 ## Dify全链路实战【视频】
 
@@ -85,5 +86,4 @@
 **更多最新内容请关注：**
 
 **【视频号】AI4SE**
-
-<img title="" src="file:///C:/Users/oakdu/Pictures/Typedown/ea55e669-a775-4ff7-9dac-cfd6ace1f292.png" alt="ea55e669-a775-4ff7-9dac-cfd6ace1f292" data-align="inline" style="zoom:50%;">
+![视频号二维码](https://github.com/aiseall/Dify-Training-Camp/blob/main/images/%E8%A7%86%E9%A2%91%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%811.0.png)
