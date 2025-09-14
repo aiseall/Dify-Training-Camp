@@ -86,4 +86,5 @@
 **更多最新内容请关注：**
 
 **【视频号】AI码力**
-![视频号二维码](https://github.com/aiseall/Dify-Training-Camp/blob/main/images/%E8%A7%86%E9%A2%91%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%811.0.png)
+<img title="" src="https://github.com/aiseall/Dify-Training-Camp/blob/main/images/%E8%A7%86%E9%A2%91%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%811.0.png" alt="ea55e669-a775-4ff7-9dac-cfd6ace1f292" data-align="inline" style="zoom:50%;">
+
